@@ -39,7 +39,7 @@ Topics:
 
 | Day | Topic | Assignment | Slide |
 |:----|:---|:---|-----|
-| (1)<br> Apr. 7 | **Introduction**<br>Data structure for simulation, Explicit/implicit shape representation | | |
+| (1)<br> Apr. 7 | **Introduction**<br>Data structure for simulation, Explicit/implicit shape representation | | [1,2] |
 | (2)<br> Apr. 21 | **Programming 1**<br>Introduction to Rust language, GitHub | task00 | |
 | (3)<br> Apr. 28 | **Time Integration**<br>Backward & forward Euler method, particle system, Barnes–Hut method | task01 | |
 | (4)<br> May 8 | **Newtonian Mechanics**<br/>| task02 | |
@@ -55,7 +55,8 @@ Topics:
 
 #### Slides
 
-To be Added
+- [1] [Introduction](http://nobuyuki-umetani.com/pba2025s/introduction.pdf)
+- [2] [Data Structure](http://nobuyuki-umetani.com/pba2025s/data_structure.pdf)
 
 ## Grading
 
@@ -70,7 +71,7 @@ There are many small programming assignments. To do the assignments, you need to
 
 [How to Submit the Assignments](doc/submit.md)
 
-| Task ID | Language | Title | Thumbnail |
+| Task ID | Language | Title (tantative) | Thumbnail |
 | :--- | :--- | :--------------------------- | :----------------------------------------- |
 | task00 | Rust | Building Rust project & submitting GitHub pull request |  |
 | task01 | Rust | Implicit Time Integration    | |
@@ -91,6 +92,7 @@ There are many small programming assignments. To do the assignments, you need to
 - Don't post the answers of the assignment on Slack 
 - Late submission of an assignment is subject to grade deduction
 - Score each assignment will not be open soon (instructor needs to adjust weights of the score later)
+- You can use AIs tool for coding.
 
 
 
